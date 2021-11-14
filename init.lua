@@ -24,4 +24,4 @@ ensure("rktjmp", "hotpot.nvim")
 -- Bootstrap .fnl support
 require("hotpot")
 
--- require("init")
+require("init")
